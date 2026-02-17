@@ -55,9 +55,9 @@ reports/ project documentation
 powerbi/ dashboard files
 
 ## Future Improvements
-Tree-based ML models (RandomForest / XGBoost).  
-Feature engineering improvements.  
-Real-time fraud scoring pipeline.
+Add tree models RandomForest XGBoost for performance comparison
+Advanced feature engineering based on transaction behavior
+Real time fraud scoring pipeline for production scenario
 
 ## Author
 GitHub: vegaFlex
