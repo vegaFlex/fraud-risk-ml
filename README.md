@@ -43,6 +43,10 @@ Expected financial loss estimation.
 Risk segmentation (Low, Medium, High, Critical).  
 Power BI dashboard for fraud monitoring.
 
+## Dashboard Preview
+![Fraud Dashboard](powerbi/dashboard.png)
+
+
 ## Repository Structure
 data/ raw datasets (ignored in git)  
 notebooks/ EDA and modeling notebooks  
